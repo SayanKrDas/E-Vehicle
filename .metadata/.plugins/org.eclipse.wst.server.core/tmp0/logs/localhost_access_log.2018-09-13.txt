@@ -1,0 +1,14 @@
+127.0.0.1 - - [13/Sep/2018:19:09:27 +0530] "GET / HTTP/1.1" 404 1000
+127.0.0.1 - - [13/Sep/2018:19:18:30 +0530] "GET / HTTP/1.1" 404 1000
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:19:21:23 +0530] "GET /frontendp/home HTTP/1.1" 200 7008
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:19:21:23 +0530] "GET /frontendp/resources/images/ICON4.png HTTP/1.1" 200 10863
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:19:21:23 +0530] "GET /frontendp/resources/css/navbar.css HTTP/1.1" 200 116
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:19:21:25 +0530] "GET /frontendp/resources/images/carousel9.jpg HTTP/1.1" 200 1715058
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:19:21:29 +0530] "GET /frontendp/resources/images/carousel7.jpg HTTP/1.1" 200 6183101
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:19:21:30 +0530] "GET /frontendp/resources/images/carousel10.jpg HTTP/1.1" 200 3499174
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:19:21:30 +0530] "GET /frontendp/resources/images/carousel8.jpg HTTP/1.1" 200 2640922
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:19:21:30 +0530] "GET /frontendp/resources/images/ICON4.png HTTP/1.1" 200 10863
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:19:21:45 +0530] "GET /frontendp/login HTTP/1.1" 200 3743
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:19:21:45 +0530] "GET /frontendp/resources/css/navbar.css HTTP/1.1" 200 116
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:19:21:45 +0530] "GET /frontendp/resources/images/ICON4.png HTTP/1.1" 200 10863
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:19:21:46 +0530] "GET /frontendp/resources/images/loginbackground.jpg HTTP/1.1" 200 153377
